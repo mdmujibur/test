@@ -1,1 +1,2 @@
 hello world in this i ceret for test merge
+i want to learning git now i try
