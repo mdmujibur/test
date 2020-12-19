@@ -1,2 +1,6 @@
 hello world in this i ceret for test merge
+<<<<<<< HEAD
 add some line please check my file
+=======
+thit right
+>>>>>>> finally
